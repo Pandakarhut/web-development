@@ -1,0 +1,31 @@
+/* CSS(cascading style sheets)
+	insert <style="backgroud-color:"> into <body>tag to play around
+	nice plugin can select RGB, *to learn rgb2hex
+	colorhunt.co *colorpalette
+
+	<body style="background-color:#F7ECDE;"> */
+
+body {
+  background-color: #f7ecde;
+}
+/*
+	CSS comments differentiated from HTML
+	the tags have the default settings, always check
+	border-style has 4 margins, top bottom left right
+*/
+hr {
+  background-color: #f7ecde;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 30%;
+}
+
+h1 {
+  color: #66bfbf;
+}
+
+h3 {
+  color: #66bfbf;
+}
